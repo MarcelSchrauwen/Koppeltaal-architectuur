@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.1.1", "1", "Afsprakenstelsel", "EARoot/EA2/EA1/EA1/EA23.htm", "4.png", "", "", "{7BFEA2B5-EA1C-4a4c-AF8A-E275029A7995}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.2", "1", "Ondersteuning", "EARoot/EA2/EA1/EA2/EA29.htm", "4.png", "", "", "{54EC3DF6-18D9-4076-A09D-5059B03252EE}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.3", "1", "Standaard", "EARoot/EA2/EA1/EA3/EA32.htm", "4.png", "", "", "{8C9EDBB9-B0B2-4e44-A3BB-719E4FCB112F}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.4", "1", "Voorzieningen", "EARoot/EA2/EA1/EA4/EA35.htm", "4.png", "", "", "{6CD927A2-8685-4928-93E4-BDA580348AB5}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.5", "1", "Community", "EARoot/EA2/EA1/EA5/EA38.htm", "4.png", "", "", "{19DC4815-F3CE-4e68-9728-B171B31C3901}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.6", "1", "Afspraken", "EARoot/EA2/EA1/EA6/EA41.htm", "4.png", "", "", "{AA9C4CB4-545E-49ec-9523-C2FD870FB64D}", "Package");

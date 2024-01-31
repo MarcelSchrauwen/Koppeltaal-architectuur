@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.2.1", "1", "Business actor", "EARoot/EA3/EA2/EA1/EA90.htm", "4.png", "", "", "{892B1D40-F5A5-47d2-A1E3-D836D112FEF4}", "Package");
-tocTab[tocTab.length] = new Array("0.3.2.2", "1", "Beheer rollen", "EARoot/EA3/EA2/EA2/EA95.htm", "4.png", "", "", "{690297A3-36F9-41a2-8D2A-0A0717AF898C}", "Package");
-tocTab[tocTab.length] = new Array("0.3.2.3", "1", "Business object", "EARoot/EA3/EA2/EA3/EA99.htm", "4.png", "", "", "{682547C4-ABB3-4de2-8B45-A2DF4D5E1603}", "Package");
-tocTab[tocTab.length] = new Array("0.3.2.4", "1", "Business process", "EARoot/EA3/EA2/EA4/EA141.htm", "4.png", "", "", "{338445E4-C713-4a67-A353-1A5ADA596A3B}", "Package");
-tocTab[tocTab.length] = new Array("0.3.2.5", "1", "Businessfuncties", "EARoot/EA3/EA2/EA5/EA174.htm", "4.png", "", "", "{9A4557C1-F8D9-40ed-9B50-8189E6E3006A}", "Package");
-tocTab[tocTab.length] = new Array("0.3.2.6", "1", "Product", "EARoot/EA3/EA2/EA6/EA180.htm", "4.png", "", "", "{39F132C8-7B71-4bb8-A45A-1F59FE3F9C07}", "Package");
