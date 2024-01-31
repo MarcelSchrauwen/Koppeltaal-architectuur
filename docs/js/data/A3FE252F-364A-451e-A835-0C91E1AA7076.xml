@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.1", "1", "FHIR resources", "EARoot/EA4/EA1/EA58.htm", "4.png", "", "", "{11768C5B-F7B1-4110-94A3-2634C1C1F0CE}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2", "1", "Gegevens typen", "EARoot/EA4/EA2/EA69.htm", "4.png", "", "", "{9937FACE-DF61-4459-9F89-0BD077E69B9A}", "Package");
+tocTab[tocTab.length] = new Array("0.4.3", "1", "Voorziening", "EARoot/EA4/EA3/EA74.htm", "4.png", "", "", "{DC630813-7B71-4224-8E11-827D40B5C2ED}", "Package");

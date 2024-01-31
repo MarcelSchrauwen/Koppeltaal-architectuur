@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Koppeltaal - Algemeen", "EARoot/EA1/EA1.htm", "34.png", "", "", "{99DB05FE-5079-4426-A5E9-D4A5E0F87B77}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Koppeltaal - Model", "EARoot/EA2/EA27.htm", "32.png", "", "", "{4058C1AB-CC20-4cfe-8DF4-AD6EC9CC5BDC}", "Package");

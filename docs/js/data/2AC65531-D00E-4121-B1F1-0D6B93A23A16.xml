@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Applicatie componenten", "EARoot/EA1/EA9.htm", "4.png", "", "", "{0066A2A0-FD6C-4a43-9687-2EE74A66E362}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Applicatiefuncties", "EARoot/EA2/EA21.htm", "4.png", "", "", "{A172359E-D4B1-4ff5-A7E8-D06BBEBB93B8}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Collaborations", "EARoot/EA3/EA51.htm", "4.png", "", "", "{C96A6C64-731C-47ab-8123-430503AB47E3}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Gegevens", "EARoot/EA4/EA54.htm", "4.png", "", "", "{A3FE252F-364A-451e-A835-0C91E1AA7076}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Interactie", "EARoot/EA5/EA87.htm", "4.png", "", "", "{415A8C85-C3B9-41ad-B14A-9FE80E27ADE5}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "1", "Interfaces", "EARoot/EA6/EA89.htm", "4.png", "", "", "{25C6806E-A079-4bdf-869D-7F1DEFE27853}", "Package");
+tocTab[tocTab.length] = new Array("0.7", "1", "Services", "EARoot/EA7/EA97.htm", "4.png", "", "", "{7FD7E1AB-6205-4f9f-ABD1-75DF42E08B5B}", "Package");

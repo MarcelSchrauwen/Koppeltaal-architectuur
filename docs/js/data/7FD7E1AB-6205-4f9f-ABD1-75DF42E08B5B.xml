@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.7:1", "", "«ArchiMate_ApplicationService» Applicatie service", "EARoot/EA7/EA98.htm", "9F0DDA8A-5_ArchiMate_ApplicationService.png", "E75384", "0", "", "Activity0","{4395F702-269B-441d-BB0F-D4D6BEE64B9C}");
+tocTab[tocTab.length] = new Array("0.7:2", "", "«ArchiMate_ApplicationService» IdP service", "EARoot/EA7/EA99.htm", "9F0DDA8A-5_ArchiMate_ApplicationService.png", "E87959", "0", "", "Activity0","{58589EDD-AB3A-4778-9208-9C704D8FF63A}");
+tocTab[tocTab.length] = new Array("0.7:3", "", "«ArchiMate_ApplicationService» Koppeltaal informatie & integratie service", "EARoot/EA7/EA100.htm", "9F0DDA8A-5_ArchiMate_ApplicationService.png", "E91385", "0", "", "Activity0","{800C23A9-3F9D-4e34-A22C-6AB4E47937E5}");
