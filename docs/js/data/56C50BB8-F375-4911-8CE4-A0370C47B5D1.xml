@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "Business architecture example", "EARoot/EA2/EA20.htm", "175.png", "7", "0", "", "Logical diagram0","{34477562-7719-4c92-900E-308DD9F877C6}");
+tocTab[tocTab.length] = new Array("0.2:2", "", "BusinessFunction1", "EARoot/EA2/EA22.htm", "175.png", "8", "0", "", "Logical diagram0","{5BD0A67C-34C8-4608-AD9A-A00A290AC3AA}");

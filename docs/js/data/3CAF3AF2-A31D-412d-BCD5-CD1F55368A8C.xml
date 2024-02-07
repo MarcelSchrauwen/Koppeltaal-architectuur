@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3:1", "", "BusinessActor1", "EARoot/EA3/EA26.htm", "9F0DDA8A-5_ArchiMate_BusinessActor.png", "E24", "0", "", "Class0","{09125595-32BB-4dee-AFA7-DE3944C235AF}");
+tocTab[tocTab.length] = new Array("0.3:2", "", "BusinessFunction1", "EARoot/EA3/EA27.htm", "9F0DDA8A-5_ArchiMate_BusinessFunction.png", "E25", "0", "", "Activity0","{D8144D50-F49B-4818-A74D-21C764FE7C76}");
+tocTab[tocTab.length] = new Array("0.3:3", "", "BusinessFunction2", "EARoot/EA3/EA28.htm", "9F0DDA8A-5_ArchiMate_BusinessFunction.png", "E26", "0", "", "Activity0","{6B02C3D5-B15C-4bc0-B9E8-4A08BC195D27}");
+tocTab[tocTab.length] = new Array("0.3:4", "", "BusinessFunction3", "EARoot/EA3/EA29.htm", "9F0DDA8A-5_ArchiMate_BusinessFunction.png", "E27", "0", "", "Activity0","{FE4379A8-50C9-43c3-9E27-FDD4B829DD2C}");
+tocTab[tocTab.length] = new Array("0.3:5", "", "BusinessProcess1", "EARoot/EA3/EA30.htm", "9F0DDA8A-5_ArchiMate_BusinessProcess.png", "E28", "E25", "", "Activity0","{44E689CF-2580-4801-B12F-9AFCB7A8C4AA}");
+tocTab[tocTab.length] = new Array("0.3:6", "", "BusinessProcess2", "EARoot/EA3/EA31.htm", "9F0DDA8A-5_ArchiMate_BusinessProcess.png", "E29", "E25", "", "Activity0","{5AA379BE-F8AB-45f3-B98B-6F73B92E5FC5}");
+tocTab[tocTab.length] = new Array("0.3:7", "", "BusinessProcess3", "EARoot/EA3/EA32.htm", "9F0DDA8A-5_ArchiMate_BusinessProcess.png", "E30", "E25", "", "Activity0","{27385BF9-FB7E-47d0-8F0C-048D295F5E6A}");
