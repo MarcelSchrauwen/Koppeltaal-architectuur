@@ -3,4 +3,4 @@ Deze repository bevat de publicatie van de Koppeltaal-architectuur. Deze archite
 
 > Deze publicatie bevindt zich op dit moment nog in een testfase. Zodra de publicatie er klaar voor is zal deze naar de Koppeltaal Github omgeving verplaatst worden.
 
-- [Koppeltaal architectuur publicatie](https://marcelschrauwen.github.io/Koppeltaal-architectuur/)
+- [Koppeltaal architectuur publicatie](https://marcelschrauwen.github.io/Koppeltaal-architectuur/?view=id-7baa2e9bbeeb44e587ed02251e5b4d3e)
