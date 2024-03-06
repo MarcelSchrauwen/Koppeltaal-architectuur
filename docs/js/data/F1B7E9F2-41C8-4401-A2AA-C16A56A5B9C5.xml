@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1", "1", "Over de repository", "EARoot/EA1/EA1/EA8.htm", "4.png", "", "", "{1842CE87-5192-4c4c-87DC-73B3F1B23FF4}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2", "", "Metamodellen", "EARoot/EA1/EA2/EA9.htm", "4.png", "", "", "{65E190A3-B904-4530-B829-2C9C041DB8E4}", "Package");
-tocTab[tocTab.length] = new Array("0.1.3", "1", "Handboek", "EARoot/EA1/EA3/EA10.htm", "4.png", "", "", "{EC1C3B20-1F46-4959-8853-DC91758B2A37}", "Package");
-tocTab[tocTab.length] = new Array("0.1.4", "", "Ondersteuning", "EARoot/EA1/EA4/EA24.htm", "4.png", "", "", "{DC41E254-6E42-4d85-886A-19A28DB73D54}", "Package");

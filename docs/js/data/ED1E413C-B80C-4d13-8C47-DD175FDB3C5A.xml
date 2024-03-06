@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1", "1", "Navigation", "EARoot/EA1/EA7.htm", "31.png", "", "", "{7FD1FDCE-5A8E-4e44-9874-719DBB7CE6EE}", "Package");
-tocTab[tocTab.length] = new Array("0.2", "1", "Architecture views", "EARoot/EA2/EA24.htm", "31.png", "", "", "{56C50BB8-F375-4911-8CE4-A0370C47B5D1}", "Package");
-tocTab[tocTab.length] = new Array("0.3", "1", "Architecture elements", "EARoot/EA3/EA25.htm", "31.png", "", "", "{3CAF3AF2-A31D-412d-BCD5-CD1F55368A8C}", "Package");
